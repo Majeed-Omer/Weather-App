@@ -32,3 +32,50 @@ The app allows users to search for any city and get live weather information wit
    ```bash
    git clone https://github.com/Majeed-Omer/weather-app.git
 
+---
+
+Navigate into the project folder
+
+cd weather-app
+
+---
+
+Open index.html in your browser
+
+# On Windows
+start index.html
+
+# On macOS
+open index.html
+
+# On Linux
+xdg-open index.html
+
+---
+
+🔑 API Setup
+
+Get a free API key from OpenWeatherMap
+.
+
+Open script.js and replace the placeholder with your key:
+
+const apiKey = "YOUR_API_KEY_HERE";
+
+---
+
+🌍 Live Demo
+
+---
+
+👉 Weather App on GitHub Pages
+
+📬 Contact
+
+👤 Majeed Omer
+
+GitHub: @Majeed-Omer
+
+LinkedIn: Majeed Omer
+
+Email: majeedomer32@gmail.com
