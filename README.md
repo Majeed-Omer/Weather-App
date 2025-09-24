@@ -21,7 +21,8 @@ The app allows users to search for any city and get live weather information wit
 ## 🖼️ Screenshots
 
 ### 🔎 Search Weather
-![Search Example](screenshots/search-weather.png)
+![Uploading nano-banana-2025-09-24T19-43-35.png…]()
+
 
 ### 🌞 Sunny Weather
 ![Sunny Example](screenshots/sunny.png)
