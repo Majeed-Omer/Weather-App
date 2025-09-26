@@ -1,11 +1,13 @@
-# Weather-App
-A responsive web app that fetches real-time weather data using the OpenWeatherMap API, with dynamic backgrounds, loading indicator, and error handling.
-
 # ⛅ Weather App
 
 A modern, responsive **Weather Application** built with **HTML, CSS, and JavaScript** that fetches real-time weather data using the [OpenWeatherMap API](https://openweathermap.org/api).  
 
 The app allows users to search for any city and get live weather information with **dynamic backgrounds, loading indicator, and error handling**.  
+
+---
+
+📸 Screenshots
+
 
 ---
 
