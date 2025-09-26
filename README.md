@@ -6,9 +6,12 @@ The app allows users to search for any city and get live weather information wit
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
+
 https://github.com/Majeed-Omer/Weather-App/blob/main/Screenshots/Screenshot1.PNG
+
 https://github.com/Majeed-Omer/Weather-App/blob/main/Screenshots/Screenshot2.PNG
+
 https://github.com/Majeed-Omer/Weather-App/blob/main/Screenshots/Screenshot3.PNG
 
 ---
